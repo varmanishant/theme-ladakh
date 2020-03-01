@@ -1,23 +1,49 @@
+/*
+ * These are the main colors:
+ *
+ * black #1c1c1c
+ * red #d74e42
+ * green #a6e22e
+ * yellow #dac471
+ * blue #1085ff
+ * magenta #d996f6
+ * cyan #47d2cc
+ * white #bcbcbc
+ * gray #888888
+ *
+ * There are some additional shades used:
+ *
+ * #121212
+ * #181818
+ * #262626
+ *
+ * Transparency, should be used only if it necessary.
+ *
+ * Minimap
+ *
+ * 44 if you need emphasis.
+ * 88 if you don't need emphasis.
+ */
 {
   "name": "Ladakh",
   "colors": {
     "activityBar.activeBorder": "#1085ff",
     "activityBar.background": "#262626",
     "activityBar.border": "#1c1c1c",
-    "activityBar.dropBackground": "#ff0000",
+    "activityBar.dropBackground": "#262626",
     "activityBar.foreground": "#bcbcbc",
     "activityBar.inactiveForeground": "#888888",
     "activityBarBadge.background": "#262626",
     "activityBarBadge.foreground": "#bcbcbc",
-    "button.background": "#88888844",
+    "button.background": "#262626",
     "contrastBorder": "#1085ff88",
     "debugToolBar.background": "#262626",
     "dropdown.background": "#262626",
     "dropdown.border": "#1c1c1c",
     "editor.background": "#1c1c1c",
-    "editor.": "#1085ff44",
-    "editor.findMatchBfindMatchBackgroundorder": "#1c1c1c",
-    "editor.findMatchHighlightBackground": "#8888844",
+    "editor.findMatchBackground": "#1eaa5f44",
+    "editor.findMatchBorder": "#1c1c1c",
+    "editor.findMatchHighlightBackground": "#888888",
     "editor.findMatchHighlightBorder": "#888888",
     "editor.foreground": "#bcbcbc",
     "editor.lineHighlightBackground": "#262626",
@@ -26,9 +52,9 @@
     "editor.selectionBackground": "#a6e22e44",
     "editor.selectionHighlightBackground": "#262626",
     "editor.selectionHighlightBorder": "#888888",
-    "editor.wordHighlightBackground": "#ff0000",
+    "editor.wordHighlightBackground": "#1085ff44",
     "editor.wordHighlightBorder": "#888888",
-    "editor.wordHighlightStrongBackground": "#ff0000",
+    "editor.wordHighlightStrongBackground": "#bcbcbc",
     "editor.wordHighlightStrongBorder": "#888888",
     "editorActiveLineNumber.foreground": "#bcbcbc",
     "editorBracketMatch.background": "#262626",
@@ -75,9 +101,9 @@
     "list.activeSelectionBackground": "#262626",
     "list.errorForeground": "#d74e42",
     "list.focusBackground": "#262626",
-    "list.hoverBackground": "#888888",
+    "list.hoverBackground": "#262626",
     "list.inactiveSelectionBackground": "#262626",
-    "list.inactiveSelectionForeground": "#676767",
+    "list.inactiveSelectionForeground": "#bcbcbc",
     "list.warningForeground": "#e9d16c",
     "notificationCenter.border": "#1085ff88",
     "notificationCenterHeader.background": "#181818",
@@ -85,35 +111,35 @@
     "notifications.background": "#262626",
     "notifications.border": "#1085ff88",
     "panel.background": "#1c1c1c",
-    "panel.border": "#1085ff88",
+    "panel.border": "#181818",
     "peekView.border": "#1085ff88",
     "peekViewEditor.background": "#262626",
     "peekViewEditor.matchHighlightBackground": "#888888",
-    "peekViewResult.background": "#262626",
-    "peekViewResult.matchHighlightBackground": "#bcbcbc",
-    "peekViewResult.selectionBackground": "#bcbcbc",
-    "peekViewResult.selectionForeground": "#666666",
+    "peekViewResult.background": "#1c1c1c",
+    "peekViewResult.matchHighlightBackground": "#262626",
+    "peekViewResult.selectionBackground": "#262626",
+    "peekViewResult.selectionForeground": "#bcbcbc",
     "peekViewTitle.background": "#181818",
     "scrollbar.shadow": "#000000",
     "scrollbarSlider.activeBackground": "#88888844",
     "scrollbarSlider.background": "#88888844",
     "scrollbarSlider.hoverBackground": "#88888844",
     "sideBar.background": "#181818",
-    "sideBar.border": "#0d1117",
+    "sideBar.border": "#121212",
     "sideBarSectionHeader.background": "#1c1c1c",
-    "statusBar.background": "#1c1c1c",
-    "statusBar.border": "#181818",
+    "statusBar.background": "#262626",
+    "statusBar.border": "#1c1c1c",
     "statusBar.debuggingBackground": "#181818",
     "statusBar.foreground": "#bcbcbc",
     "statusBar.noFolderBackground": "#181818",
     "statusBarItem.hoverBackground": "#181818",
-    "tab.activeBackground": "#1c1c1c",
+    "tab.activeBackground": "#262626",
     "tab.activeBorderTop": "#1085ff",
-    "tab.activeForeground": "#676767",
-    "tab.border": "#0d1117",
-    "tab.hoverBackground": "#bcbcbc",
+    "tab.activeForeground": "#bcbcbc",
+    "tab.border": "#1c1c1c",
+    "tab.hoverBackground": "#262626",
     "tab.inactiveBackground": "#181818",
-    "tab.inactiveForeground": "#676767",
+    "tab.inactiveForeground": "#bcbcbc",
     "terminal.ansiBlack": "#1c1c1c",
     "terminal.ansiBlue": "#61afef",
     "terminal.ansiBrightBlack": "#5f6672",
@@ -131,11 +157,11 @@
     "terminal.ansiWhite": "#bcbcbc",
     "terminal.ansiYellow": "#d19a66",
     "terminal.foreground": "#bcbcbc",
-    "titleBar.activeBackground": "#1c1c1c",
-    "titleBar.activeForeground": "#676767",
-    "titleBar.border": "#0d1117",
-    "titleBar.inactiveBackground": "#1c1c1c",
-    "titleBar.inactiveForeground": "#5f6672",
+    "titleBar.activeBackground": "#262626",
+    "titleBar.activeForeground": "#bcbcbc",
+    "titleBar.border": "#1c1c1c",
+    "titleBar.inactiveBackground": "#181818",
+    "titleBar.inactiveForeground": "#bcbcbc",
     "widget.shadow": "#000000"
   },
   "tokenColors": [
