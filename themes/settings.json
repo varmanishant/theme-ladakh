@@ -2,12 +2,12 @@
  * These are the main colors:
  *
  * black #1c1c1c
- * red #d74e42
- * green #a6e22e
+ * red #ff3b66
+ * green #50c878
  * yellow #dac471
  * blue #1085ff
  * magenta #d996f6
- * cyan #47d2cc
+ * cyan #40e0d0
  * white #bcbcbc
  * gray #888888
  *
@@ -54,13 +54,13 @@
     "editor.selectionHighlightBorder": "#888888",
     "editor.wordHighlightBackground": "#1085ff44",
     "editor.wordHighlightBorder": "#888888",
-    "editor.wordHighlightStrongBackground": "#bcbcbc",
+    "editor.wordHighlightStrongBackground": "#88888844",
     "editor.wordHighlightStrongBorder": "#888888",
     "editorActiveLineNumber.foreground": "#bcbcbc",
     "editorBracketMatch.background": "#262626",
     "editorBracketMatch.border": "#1c1c1c",
     "editorCursor.foreground": "#bcbcbc",
-    "editorError.foreground": "#d74e42",
+    "editorError.foreground": "#ff3b66",
     "editorGroup.background": "#262626",
     "editorGroup.border": "#1c1c1c",
     "editorGroupHeader.tabsBackground": "#262626",
@@ -73,7 +73,7 @@
     "editorLightBulbAutoFix.foreground": "#1085ff",
     "editorLineNumber.foreground": "#888888",
     "editorOverviewRuler.border": "#1c1c1c",
-    "editorOverviewRuler.errorForeground": "#d74e42",
+    "editorOverviewRuler.errorForeground": "#ff3b66",
     "editorOverviewRuler.infoForeground": "#bcbcbc",
     "editorOverviewRuler.warningForeground": "#dac471",
     "editorRuler.foreground": "#bcbcbc",
@@ -83,15 +83,15 @@
     "editorWarning.foreground": "#dac471",
     "editorWhitespace.foreground": "#888888",
     "editorWidget.background": "#262626",
-    "errorForeground": "#d74e42",
+    "errorForeground": "#ff3b66",
     "focusBorder": "#1085ff88",
-    "gitDecoration.deletedResourceForeground": "#d74e42",
+    "gitDecoration.deletedResourceForeground": "#ff3b66",
     "gitDecoration.modifiedResourceForeground": "#5f6672",
     "gitDecoration.untrackedResourceForeground": "#dac471",
     "input.background": "#1c1c1c",
     "inputOption.activeBorder": "#1085ff88",
-    "inputValidation.errorBackground": "#d74e42",
-    "inputValidation.errorBorder": "#d74e42",
+    "inputValidation.errorBackground": "#ff3b66",
+    "inputValidation.errorBorder": "#ff3b66",
     "inputValidation.infoBackground": "#1085ff",
     "inputValidation.infoBorder": "#1085ff",
     "inputValidation.infoForeground": "#bcbcbc",
@@ -99,7 +99,7 @@
     "inputValidation.warningBorder": "#dac471",
     "inputValidation.warningForeground": "#bcbcbc",
     "list.activeSelectionBackground": "#262626",
-    "list.errorForeground": "#d74e42",
+    "list.errorForeground": "#ff3b66",
     "list.focusBackground": "#262626",
     "list.hoverBackground": "#262626",
     "list.inactiveSelectionBackground": "#262626",
@@ -110,8 +110,8 @@
     "notificationToast.border": "#1085ff88",
     "notifications.background": "#262626",
     "notifications.border": "#1085ff88",
-    "panel.background": "#1c1c1c",
-    "panel.border": "#181818",
+    "panel.background": "#181818",
+    "panel.border": "#121212",
     "peekView.border": "#1085ff88",
     "peekViewEditor.background": "#262626",
     "peekViewEditor.matchHighlightBackground": "#888888",
@@ -147,13 +147,13 @@
     "terminal.ansiBrightCyan": "#08e8de",
     "terminal.ansiBrightGreen": "#69c52e",
     "terminal.ansiBrightMagenta": "#8b00ff",
-    "terminal.ansiBrightRed": "#d74e42",
+    "terminal.ansiBrightRed": "#ff3b66",
     "terminal.ansiBrightWhite": "#676767",
     "terminal.ansiBrightYellow": "#e9d16c",
     "terminal.ansiCyan": "#56b6c2",
     "terminal.ansiGreen": "#98c379",
     "terminal.ansiMagenta": "#b57edc",
-    "terminal.ansiRed": "#d74e42",
+    "terminal.ansiRed": "#ff3b66",
     "terminal.ansiWhite": "#bcbcbc",
     "terminal.ansiYellow": "#d19a66",
     "terminal.foreground": "#bcbcbc",
@@ -180,25 +180,25 @@
     {
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#b57edc"
+        "foreground": "#d996f6"
       }
     },
     {
       "scope": ["entity.name.type.class.python"],
       "settings": {
-        "foreground": "#b57edc"
+        "foreground": "#50c878"
       }
     },
     {
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#d74e42"
+        "foreground": "#ff3b66"
       }
     },
     {
       "scope": ["keyword.codetag.notation.python"],
       "settings": {
-        "foreground": "#d74e42"
+        "foreground": "#ff3b66"
       }
     },
     {
@@ -228,7 +228,7 @@
     {
       "scope": ["variable.parameter.function"],
       "settings": {
-        "foreground": "#C39953"
+        "foreground": "#dac471"
       }
     }
   ]
