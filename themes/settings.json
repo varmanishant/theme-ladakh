@@ -1,15 +1,15 @@
 /*
- * These are the main colors:
+ * These are the main colors used:
  *
- * black #1c1c1c
- * red #ff3b66
- * green #50c878
- * yellow #dac471
- * blue #61afef
- * magenta #d996f6
- * cyan #63cab1
- * white #bcbcbc
- * gray #888888
+ * Black #1c1c1c
+ * Red #ff3b66
+ * Green #50c878
+ * Yellow #dac471
+ * Blue #61afef
+ * Magenta #d996f6
+ * Cyan #63cab1
+ * White #bcbcbc
+ * Gray #888888
  *
  * There are some additional shades used:
  *
@@ -18,9 +18,11 @@
  * #262626
  * #444444
  *
- * Transparency, should be used only if it necessary.
+ * Transparency should be used only if it necessary. For example:
  *
  * Minimap
+ * Selection Highlight
+ * Word Higlight
  *
  * 44 if you need emphasis.
  * 88 if you don't need emphasis.
