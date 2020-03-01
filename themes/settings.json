@@ -67,8 +67,8 @@
     "editorGroup.background": "#262626",
     "editorGroup.border": "#1c1c1c",
     "editorGroupHeader.tabsBackground": "#262626",
-    "editorHoverWidget.background": "#1c1c1c",
-    "editorHoverWidget.border": "#181818",
+    "editorHoverWidget.background": "#262626",
+    "editorHoverWidget.border": "#1c1c1c",
     "editorIndentGuide.activeBackground": "#444444",
     "editorIndentGuide.background": "#444444",
     "editorInfo.foreground": "#bcbcbc",
@@ -227,6 +227,12 @@
       "scope": ["string.quoted.docstring"],
       "settings": {
         "foreground": "#888888"
+      }
+    },
+    {
+      "scope": ["support.type.property-name"],
+      "settings": {
+        "foreground": "#50c878"
       }
     },
     {
