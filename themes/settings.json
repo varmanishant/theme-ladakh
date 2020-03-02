@@ -16,7 +16,7 @@
  * #080808
  * #121212
  * #262626
- * #303030
+ * #444444
  *
  * Transparency should be used only if it necessary. For example:
  *
@@ -59,7 +59,7 @@
     "editor.wordHighlightBorder": "#888888",
     "editor.wordHighlightStrongBackground": "#88888844",
     "editor.wordHighlightStrongBorder": "#888888",
-    "editorActiveLineNumber.foreground": "#303030",
+    "editorActiveLineNumber.foreground": "#444444",
     "editorBracketMatch.background": "#262626",
     "editorBracketMatch.border": "#181818",
     "editorCursor.foreground": "#d0d0d0",
@@ -69,12 +69,12 @@
     "editorGroupHeader.tabsBackground": "#262626",
     "editorHoverWidget.background": "#262626",
     "editorHoverWidget.border": "#181818",
-    "editorIndentGuide.activeBackground": "#303030",
-    "editorIndentGuide.background": "#303030",
+    "editorIndentGuide.activeBackground": "#444444",
+    "editorIndentGuide.background": "#444444",
     "editorInfo.foreground": "#d0d0d0",
     "editorLightBulb.foreground": "#c3aa5e",
     "editorLightBulbAutoFix.foreground": "#61afef",
-    "editorLineNumber.foreground": "#303030",
+    "editorLineNumber.foreground": "#444444",
     "editorOverviewRuler.border": "#181818",
     "editorOverviewRuler.errorForeground": "#ff3b66",
     "editorOverviewRuler.infoForeground": "#d0d0d0",
@@ -82,7 +82,7 @@
     "editorRuler.foreground": "#d0d0d0",
     "editorSuggestWidget.background": "#262626",
     "editorSuggestWidget.border": "#181818",
-    "editorSuggestWidget.selectedBackground": "#888888",
+    "editorSuggestWidget.selectedBackground": "#444444",
     "editorWarning.foreground": "#c3aa5e",
     "editorWhitespace.foreground": "#888888",
     "editorWidget.background": "#262626",
@@ -135,7 +135,7 @@
     "statusBar.debuggingBackground": "#121212",
     "statusBar.foreground": "#d0d0d0",
     "statusBar.noFolderBackground": "#121212",
-    "statusBarItem.hoverBackground": "#303030",
+    "statusBarItem.hoverBackground": "#444444",
     "tab.activeBackground": "#262626",
     "tab.activeBorderTop": "#61afef",
     "tab.activeForeground": "#d0d0d0",
