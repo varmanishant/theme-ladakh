@@ -17,7 +17,7 @@
  * #121212
  * #262626
  * #444444
- * #e3b778
+ * #ff935d
  *
  * Transparency should be used only if it necessary. For example:
  *
@@ -221,7 +221,7 @@
     {
       "scope": ["string.quoted"],
       "settings": {
-        "foreground": "#e3b778"
+        "foreground": "#ff935d"
       }
     },
     {
