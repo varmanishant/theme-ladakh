@@ -213,6 +213,12 @@
       }
     },
     {
+      "scope": ["punctuation.definition.string"],
+      "settings": {
+        "foreground": "#888888"
+      }
+    },
+    {
       "scope": ["storage"],
       "settings": {
         "foreground": "#61afef"
