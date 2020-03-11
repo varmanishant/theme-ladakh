@@ -4,7 +4,7 @@
  * Black #181818
  * Red #ff3b66
  * Green #50c878
- * Yellow #cfcd64
+ * Yellow #dac471
  * Blue #61afef
  * Magenta #c586c0
  * Cyan #66cdaa
@@ -72,25 +72,25 @@
         "editorIndentGuide.activeBackground": "#444444",
         "editorIndentGuide.background": "#444444",
         "editorInfo.foreground": "#dadada",
-        "editorLightBulb.foreground": "#cfcd64",
+        "editorLightBulb.foreground": "#dac471",
         "editorLightBulbAutoFix.foreground": "#61afef",
         "editorLineNumber.foreground": "#444444",
         "editorOverviewRuler.border": "#181818",
         "editorOverviewRuler.errorForeground": "#ff3b66",
         "editorOverviewRuler.infoForeground": "#dadada",
-        "editorOverviewRuler.warningForeground": "#cfcd64",
+        "editorOverviewRuler.warningForeground": "#dac471",
         "editorRuler.foreground": "#dadada",
         "editorSuggestWidget.background": "#262626",
         "editorSuggestWidget.border": "#181818",
         "editorSuggestWidget.selectedBackground": "#50c87844",
-        "editorWarning.foreground": "#cfcd64",
+        "editorWarning.foreground": "#dac471",
         "editorWhitespace.foreground": "#888888",
         "editorWidget.background": "#262626",
         "errorForeground": "#ff3b66",
         "focusBorder": "#61afef88",
         "gitDecoration.deletedResourceForeground": "#ff3b66",
         "gitDecoration.modifiedResourceForeground": "#50c878",
-        "gitDecoration.untrackedResourceForeground": "#cfcd64",
+        "gitDecoration.untrackedResourceForeground": "#dac471",
         "input.background": "#181818",
         "inputOption.activeBorder": "#61afef88",
         "inputValidation.errorBackground": "#ff3b66",
@@ -98,8 +98,8 @@
         "inputValidation.infoBackground": "#61afef",
         "inputValidation.infoBorder": "#61afef",
         "inputValidation.infoForeground": "#dadada",
-        "inputValidation.warningBackground": "#cfcd64",
-        "inputValidation.warningBorder": "#cfcd64",
+        "inputValidation.warningBackground": "#dac471",
+        "inputValidation.warningBorder": "#dac471",
         "inputValidation.warningForeground": "#dadada",
         "list.activeSelectionBackground": "#262626",
         "list.errorForeground": "#ff3b66",
@@ -107,7 +107,7 @@
         "list.hoverBackground": "#262626",
         "list.inactiveSelectionBackground": "#262626",
         "list.inactiveSelectionForeground": "#dadada",
-        "list.warningForeground": "#cfcd64",
+        "list.warningForeground": "#dac471",
         "notificationCenter.border": "#61afef88",
         "notificationCenterHeader.background": "#121212",
         "notificationToast.border": "#61afef88",
@@ -147,7 +147,7 @@
         "terminal.foreground": "#dadada",
         "terminal.ansiBlack": "#181818",
         "terminal.ansiRed": "#ff3b66",
-        "terminal.ansiYellow": "#cfcd64",
+        "terminal.ansiYellow": "#dac471",
         "terminal.ansiGreen": "#50c878",
         "terminal.ansiBlue": "#61afef",
         "terminal.ansiMagenta": "#c586c0",
@@ -155,7 +155,7 @@
         "terminal.ansiWhite": "#dadada",
         "terminal.ansiBrightBlack": "#888888",
         "terminal.ansiBrightRed": "#ff3b66",
-        "terminal.ansiBrightYellow": "#cfcd64",
+        "terminal.ansiBrightYellow": "#dac471",
         "terminal.ansiBrightGreen": "#50c878",
         "terminal.ansiBrightBlue": "#61afef",
         "terminal.ansiBrightMagenta": "#c586c0",
@@ -226,7 +226,7 @@
         {
             "scope": ["string.quoted"],
             "settings": {
-                "foreground": "#cfcd64"
+                "foreground": "#dac471"
             }
         },
         {
