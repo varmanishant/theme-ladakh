@@ -207,6 +207,12 @@
             }
         },
         {
+            "scope": ["keyword.control.import"],
+            "settings": {
+                "foreground": "#fda135"
+            }
+        },
+        {
             "scope": ["punctuation"],
             "settings": {
                 "foreground": "#dadada"
@@ -237,13 +243,13 @@
             }
         },
         {
-            "scope": ["support.type.property-name"],
+            "scope": ["support.type"],
             "settings": {
                 "foreground": "#50c878"
             }
         },
         {
-            "scope": ["variable.parameter.function"],
+            "scope": ["variable.parameter"],
             "settings": {
                 "foreground": "#fda135"
             }
