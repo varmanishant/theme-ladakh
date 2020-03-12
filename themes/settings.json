@@ -2,7 +2,7 @@
  * These are the main colors used:
  *
  * Black #181818
- * Red #f92672
+ * Red #fa3f82
  * Green #50c878
  * Yellow #cfc568
  * Blue #61afef
@@ -17,7 +17,7 @@
  * #121212
  * #262626
  * #444444
- * #fd971f
+ * #fda338
  *
  * Transparency should be used only if it necessary. For example:
  *
@@ -64,7 +64,7 @@
         "editorBracketMatch.background": "#1eaa5f44",
         "editorBracketMatch.border": "#888888",
         "editorCursor.foreground": "#dadada",
-        "editorError.foreground": "#f92672",
+        "editorError.foreground": "#fa3f82",
         "editorGroup.background": "#262626",
         "editorGroup.border": "#181818",
         "editorGroupHeader.tabsBackground": "#262626",
@@ -77,7 +77,7 @@
         "editorLightBulbAutoFix.foreground": "#61afef",
         "editorLineNumber.foreground": "#444444",
         "editorOverviewRuler.border": "#181818",
-        "editorOverviewRuler.errorForeground": "#f92672",
+        "editorOverviewRuler.errorForeground": "#fa3f82",
         "editorOverviewRuler.infoForeground": "#dadada",
         "editorOverviewRuler.warningForeground": "#cfc568",
         "editorRuler.foreground": "#dadada",
@@ -87,15 +87,15 @@
         "editorWarning.foreground": "#cfc568",
         "editorWhitespace.foreground": "#888888",
         "editorWidget.background": "#262626",
-        "errorForeground": "#f92672",
+        "errorForeground": "#fa3f82",
         "focusBorder": "#61afef88",
-        "gitDecoration.deletedResourceForeground": "#f92672",
+        "gitDecoration.deletedResourceForeground": "#fa3f82",
         "gitDecoration.modifiedResourceForeground": "#50c878",
         "gitDecoration.untrackedResourceForeground": "#cfc568",
         "input.background": "#181818",
         "inputOption.activeBorder": "#61afef88",
-        "inputValidation.errorBackground": "#f92672",
-        "inputValidation.errorBorder": "#f92672",
+        "inputValidation.errorBackground": "#fa3f82",
+        "inputValidation.errorBorder": "#fa3f82",
         "inputValidation.infoBackground": "#61afef",
         "inputValidation.infoBorder": "#61afef",
         "inputValidation.infoForeground": "#dadada",
@@ -103,7 +103,7 @@
         "inputValidation.warningBorder": "#cfc568",
         "inputValidation.warningForeground": "#dadada",
         "list.activeSelectionBackground": "#262626",
-        "list.errorForeground": "#f92672",
+        "list.errorForeground": "#fa3f82",
         "list.focusBackground": "#262626",
         "list.hoverBackground": "#262626",
         "list.inactiveSelectionBackground": "#262626",
@@ -147,7 +147,7 @@
         "terminal.background": "#181818",
         "terminal.foreground": "#dadada",
         "terminal.ansiBlack": "#181818",
-        "terminal.ansiRed": "#f92672",
+        "terminal.ansiRed": "#fa3f82",
         "terminal.ansiYellow": "#cfc568",
         "terminal.ansiGreen": "#50c878",
         "terminal.ansiBlue": "#61afef",
@@ -155,7 +155,7 @@
         "terminal.ansiCyan": "#66cdaa",
         "terminal.ansiWhite": "#dadada",
         "terminal.ansiBrightBlack": "#888888",
-        "terminal.ansiBrightRed": "#f92672",
+        "terminal.ansiBrightRed": "#fa3f82",
         "terminal.ansiBrightYellow": "#cfc568",
         "terminal.ansiBrightGreen": "#50c878",
         "terminal.ansiBrightBlue": "#61afef",
@@ -197,19 +197,19 @@
         {
             "scope": ["keyword"],
             "settings": {
-                "foreground": "#f92672"
+                "foreground": "#fa3f82"
             }
         },
         {
             "scope": ["keyword.codetag.notation"],
             "settings": {
-                "foreground": "#f92672"
+                "foreground": "#fa3f82"
             }
         },
         {
             "scope": ["keyword.control.import"],
             "settings": {
-                "foreground": "#fd971f"
+                "foreground": "#fda338"
             }
         },
         {
@@ -251,7 +251,7 @@
         {
             "scope": ["variable.parameter"],
             "settings": {
-                "foreground": "#fd971f"
+                "foreground": "#fda338"
             }
         }
     ]
