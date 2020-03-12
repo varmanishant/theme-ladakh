@@ -17,7 +17,7 @@
  * #121212
  * #262626
  * #444444
- * #fda135
+ * #fd971f
  *
  * Transparency should be used only if it necessary. For example:
  *
@@ -209,7 +209,7 @@
         {
             "scope": ["keyword.control.import"],
             "settings": {
-                "foreground": "#fda135"
+                "foreground": "#fd971f"
             }
         },
         {
@@ -251,7 +251,7 @@
         {
             "scope": ["variable.parameter"],
             "settings": {
-                "foreground": "#fda135"
+                "foreground": "#fd971f"
             }
         }
     ]
