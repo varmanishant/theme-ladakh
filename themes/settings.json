@@ -18,7 +18,7 @@
  * #262626
  * #444444
  * #fda338
- * #0070ff
+ * #0f52ba
  *
  * Transparency should be used only if it necessary. For example:
  *
@@ -32,7 +32,7 @@
 {
     "name": "Ladakh",
     "colors": {
-        "activityBar.activeBorder": "#0070ff",
+        "activityBar.activeBorder": "#0f52ba",
         "activityBar.background": "#262626",
         "activityBar.border": "#181818",
         "activityBar.dropBackground": "#262626",
@@ -40,11 +40,11 @@
         "activityBar.inactiveForeground": "#888888",
         "activityBarBadge.background": "#262626",
         "activityBarBadge.foreground": "#dadada",
-        "button.background": "#0070ff",
+        "button.background": "#0f52ba",
         "contrastBorder": "#007fff88",
         "debugToolBar.background": "#262626",
         "dropdown.background": "#181818",
-        "dropdown.border": "#0070ff",
+        "dropdown.border": "#0f52ba",
         "editor.background": "#181818",
         "editor.findMatchBackground": "#1eaa5f44",
         "editor.findMatchBorder": "#181818",
@@ -97,8 +97,8 @@
         "inputOption.activeBorder": "#007fff88",
         "inputValidation.errorBackground": "#fa3f82",
         "inputValidation.errorBorder": "#fa3f82",
-        "inputValidation.infoBackground": "#0070ff",
-        "inputValidation.infoBorder": "#0070ff",
+        "inputValidation.infoBackground": "#0f52ba",
+        "inputValidation.infoBorder": "#0f52ba",
         "inputValidation.infoForeground": "#dadada",
         "inputValidation.warningBackground": "#cfc568",
         "inputValidation.warningBorder": "#cfc568",
@@ -139,7 +139,7 @@
         "statusBar.noFolderBackground": "#121212",
         "statusBarItem.hoverBackground": "#444444",
         "tab.activeBackground": "#444444",
-        "tab.activeBorderTop": "#0070ff",
+        "tab.activeBorderTop": "#0f52ba",
         "tab.activeForeground": "#dadada",
         "tab.border": "#181818",
         "tab.hoverBackground": "#444444",
@@ -149,16 +149,16 @@
         "terminal.foreground": "#dadada",
         "terminal.ansiBlack": "#181818",
         "terminal.ansiRed": "#fa3f82",
-        "terminal.ansiYellow": "#cfc568",
         "terminal.ansiGreen": "#50c878",
+        "terminal.ansiYellow": "#cfc568",
         "terminal.ansiBlue": "#61afef",
         "terminal.ansiMagenta": "#ae81ff",
         "terminal.ansiCyan": "#66cdaa",
         "terminal.ansiWhite": "#dadada",
         "terminal.ansiBrightBlack": "#888888",
         "terminal.ansiBrightRed": "#fa3f82",
-        "terminal.ansiBrightYellow": "#cfc568",
         "terminal.ansiBrightGreen": "#50c878",
+        "terminal.ansiBrightYellow": "#cfc568",
         "terminal.ansiBrightBlue": "#61afef",
         "terminal.ansiBrightMagenta": "#ae81ff",
         "terminal.ansiBrightCyan": "#66cdaa",
