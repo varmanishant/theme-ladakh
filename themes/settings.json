@@ -210,7 +210,7 @@
         {
             "scope": ["keyword.control.import"],
             "settings": {
-                "foreground": "#fda338"
+                "foreground": "#fa3f82"
             }
         },
         {
