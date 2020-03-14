@@ -190,7 +190,7 @@
             }
         },
         {
-            "scope": ["entity.name.type.class.python"],
+            "scope": ["entity.name.type.class"],
             "settings": {
                 "foreground": "#50c878"
             }
@@ -220,9 +220,15 @@
             }
         },
         {
-            "scope": ["punctuation.definition.string"],
+            "scope": ["punctuation.definition.comment"],
             "settings": {
                 "foreground": "#888888"
+            }
+        },
+        {
+            "scope": ["punctuation.definition.string"],
+            "settings": {
+                "foreground": "#cfc568"
             }
         },
         {
@@ -235,12 +241,6 @@
             "scope": ["string.quoted"],
             "settings": {
                 "foreground": "#cfc568"
-            }
-        },
-        {
-            "scope": ["string.quoted.docstring"],
-            "settings": {
-                "foreground": "#888888"
             }
         },
         {
