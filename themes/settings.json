@@ -186,7 +186,7 @@
         {
             "scope": ["entity.name.function"],
             "settings": {
-                "foreground": "#ae81ff"
+                "foreground": "#50c878"
             }
         },
         {
