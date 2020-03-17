@@ -250,6 +250,12 @@
             }
         },
         {
+            "scope": ["support.function"],
+            "settings": {
+                "foreground": "#66cdaa"
+            }
+        },
+        {
             "scope": ["variable.parameter"],
             "settings": {
                 "foreground": "#fda338"
