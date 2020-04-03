@@ -252,7 +252,7 @@
         {
             "scope": ["support.function"],
             "settings": {
-                "foreground": "#fda338"
+                "foreground": "#50c878"
             }
         },
         {
