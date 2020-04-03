@@ -7,7 +7,7 @@
  * Yellow #cfc568
  * Blue #61afef
  * Magenta #ae81ff
- * Cyan #66cdaa
+ * Cyan #80daeb
  * White #dadada
  * Gray #888888
  *
@@ -153,7 +153,7 @@
         "terminal.ansiYellow": "#cfc568",
         "terminal.ansiBlue": "#61afef",
         "terminal.ansiMagenta": "#ae81ff",
-        "terminal.ansiCyan": "#66cdaa",
+        "terminal.ansiCyan": "#80daeb",
         "terminal.ansiWhite": "#dadada",
         "terminal.ansiBrightBlack": "#888888",
         "terminal.ansiBrightRed": "#fa3f82",
@@ -161,7 +161,7 @@
         "terminal.ansiBrightYellow": "#cfc568",
         "terminal.ansiBrightBlue": "#61afef",
         "terminal.ansiBrightMagenta": "#ae81ff",
-        "terminal.ansiBrightCyan": "#66cdaa",
+        "terminal.ansiBrightCyan": "#80daeb",
         "terminal.ansiBrightWhite": "#dadada",
         "titleBar.activeBackground": "#262626",
         "titleBar.activeForeground": "#dadada",
@@ -180,7 +180,7 @@
         {
             "scope": ["constant"],
             "settings": {
-                "foreground": "#66cdaa"
+                "foreground": "#80daeb"
             }
         },
         {
@@ -252,7 +252,7 @@
         {
             "scope": ["support.function"],
             "settings": {
-                "foreground": "#66cdaa"
+                "foreground": "#fda338"
             }
         },
         {
