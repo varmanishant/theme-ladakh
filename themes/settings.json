@@ -17,8 +17,8 @@
  * #121212
  * #262626
  * #444444
- * #fda338
- * #0f52ba
+ * #ff7f50 (dark orange)
+ * #0f52ba (dark blue)
  *
  * Transparency should be used only if it necessary. For example:
  *
@@ -258,7 +258,7 @@
         {
             "scope": ["variable.parameter"],
             "settings": {
-                "foreground": "#fda338"
+                "foreground": "#ff7f50"
             }
         }
     ]
