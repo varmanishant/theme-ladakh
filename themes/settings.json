@@ -190,7 +190,19 @@
             }
         },
         {
+            "scope": ["entity.name.tag"],
+            "settings": {
+                "foreground": "#fa3f82"
+            }
+        },
+        {
             "scope": ["entity.name.type.class"],
+            "settings": {
+                "foreground": "#50c878"
+            }
+        },
+        {
+            "scope": ["entity.other"],
             "settings": {
                 "foreground": "#50c878"
             }
