@@ -6,7 +6,7 @@
  * Green #50c878
  * Yellow #d1d65f [Alternate: #cfc568]
  * Blue #61afef
- * Magenta #ff82ff
+ * Magenta #ff66ff
  * Cyan #80daeb
  * White #dadada
  * Gray #888888
@@ -152,7 +152,7 @@
         "terminal.ansiGreen": "#50c878",
         "terminal.ansiYellow": "#d1d65f",
         "terminal.ansiBlue": "#61afef",
-        "terminal.ansiMagenta": "#ff82ff",
+        "terminal.ansiMagenta": "#ff66ff",
         "terminal.ansiCyan": "#80daeb",
         "terminal.ansiWhite": "#dadada",
         "terminal.ansiBrightBlack": "#888888",
@@ -160,7 +160,7 @@
         "terminal.ansiBrightGreen": "#50c878",
         "terminal.ansiBrightYellow": "#d1d65f",
         "terminal.ansiBrightBlue": "#61afef",
-        "terminal.ansiBrightMagenta": "#ff82ff",
+        "terminal.ansiBrightMagenta": "#ff66ff",
         "terminal.ansiBrightCyan": "#80daeb",
         "terminal.ansiBrightWhite": "#dadada",
         "titleBar.activeBackground": "#262626",
